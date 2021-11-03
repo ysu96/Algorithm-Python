@@ -1,2 +1,3 @@
-# Coding-Test-PYTHON
-Coding test practice for Python
+# Algorithm Study (Python)
+- BOJ
+- Programmers
