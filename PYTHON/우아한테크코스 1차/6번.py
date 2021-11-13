@@ -44,7 +44,7 @@ def solution(time, plans):
                 return answer
             else:
                 time -= need
-        
+
         answer = place
 
     return answer
